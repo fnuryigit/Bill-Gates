@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background: #fafafa;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+#bill-gates-photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  margin-bottom: 10px;
+}
+
+header h1 {
+  font-size: 28px;
+  color: #333;
+  margin: 0;
+}
+
+#balance {
+  background: linear-gradient(to right, #1abc9c, #16a085);
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* geri kalan her şey aynı */
+#products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.product {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 15px;
+  width: 200px;
+  background: white;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.product img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+button {
+  margin: 5px;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover:not(:disabled) {
+  background-color: #16a085;
+  color: white;
+}
+
+button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+#receipt {
+  list-style: none;
+  padding: 0;
+}
+
+#total {
+  margin-top: 10px;
+  font-weight: bold;
+  color: #16a085;
+}
+
+@media (max-width: 600px) {
+  .product {
+    width: 100%;
+  }
+}
