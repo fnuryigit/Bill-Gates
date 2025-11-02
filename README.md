@@ -25,7 +25,7 @@ Bu proje, [neal.fun/spend](https://neal.fun/spend) sitesinin bir klonudur. Bill 
 ## 🌍 Canlı Demo
 
 🔗 **Projenin Canlı Linki:**  
-👉 [https://fnuryigit.github.io/Bill-Gates-Money-App/](https://fnuryigit.github.io/Bill-Gates-Money-App/)
+👉 [https://fnuryigit.github.io/Bill-Gates-Money-App/](https://fnuryigit.github.io/Bill-Gates/)
 
 ## 👩‍💻 Geliştirici
 
