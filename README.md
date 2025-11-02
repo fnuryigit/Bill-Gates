@@ -1,6 +1,6 @@
 # 💸 Spend Bill Gates' Money
 
-Bu proje, [neal.fun/spend](https://neal.fun/spend) sitesinin bir klonudur. Bill Gates'in **$100,000,000,000** servetini hayali ürünler satın alarak “harcayabildiğiniz” eğlenceli bir uygulamadır. 🎮💰  
+Bu proje, Bill Gates'in **$100,000,000,000** servetini hayali ürünler satın alarak “harcayabildiğiniz” eğlenceli bir uygulamadır. 🎮💰  
 
 ## 🚀 Özellikler
 
@@ -12,9 +12,7 @@ Bu proje, [neal.fun/spend](https://neal.fun/spend) sitesinin bir klonudur. Bill 
 - Satın alınan ürünler, alt kısımda adetleri ve toplam bedelleriyle listelenir  
 - Üst kısımda “Spend Bill Gates’ Money” başlığı ve Bill Gates’in görseli yer alır 👑  
 
-## 🖼️ Önizleme
 
-![Spend Bill Gates Money Screenshot](./screenshot.png)
 
 ## 🧠 Kullanılan Teknolojiler
 
